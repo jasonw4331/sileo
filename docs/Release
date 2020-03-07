@@ -1,11 +1,11 @@
-Origin: jasonwynn10's Repo
-Label: jasonwynn10's Repo
+Origin: jasonwynn10s Tweaks n Things
+Label: jasonwynn10s Tweaks n Things
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Simple Tweaks and Addons
+Description: Simple Tweaks and Addons made by me
 
 SHA256:
  66fa9fd2134da6bb1aa0ccadc1acefe67f1f08c683a5dbef70d431583ec397e0 1548 Packages.bz2
