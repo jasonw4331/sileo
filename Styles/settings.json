@@ -2,10 +2,23 @@
     "name": "jasonwynn10's Repo",
     "description": "Simple Tweaks and Addons",
     "tint": "#37bd6f",
-    "cname": "jasonwynn10.github.io/repo",
+    "cname": "jasonwynn10.com",
     "maintainer": {
         "name": "jasonwynn10",
         "email": "jasonwynn10@me.com"
     },
-    "automatic_git": "false"
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/jasonwynn10"
+        },
+        {
+            "name": "Website",
+            "url": "https://jasonwynn10.com"
+        }
+    ],
+    "automatic_git": "false",
+    "subfolder": "repo",
+    "footer": "{{repo_name}} Powered by Silica {{silica_version}}",
+    "enable_gpg": "true"
 }
