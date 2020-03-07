@@ -18,7 +18,7 @@
         }
     ],
     "automatic_git": "false",
-    "subfolder": "repo",
+    "subfolder": "sileo",
     "footer": "{{repo_name}} Powered by Silica {{silica_version}}",
     "enable_gpg": "false"
 }
