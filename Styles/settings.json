@@ -20,5 +20,5 @@
     "automatic_git": "false",
     "subfolder": "repo",
     "footer": "{{repo_name}} Powered by Silica {{silica_version}}",
-    "enable_gpg": "true"
+    "enable_gpg": "false"
 }
