@@ -1,0 +1,12 @@
+Origin: jasonwynn10's Repo
+Label: jasonwynn10's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Simple Tweaks and Addons
+
+SHA256:
+ 66fa9fd2134da6bb1aa0ccadc1acefe67f1f08c683a5dbef70d431583ec397e0 1548 Packages.bz2
+ b21dcf07d5b9e5574c37b304114b2023971896e65874156d4224cb0a19bdd3ca 1448 Packages.xz
